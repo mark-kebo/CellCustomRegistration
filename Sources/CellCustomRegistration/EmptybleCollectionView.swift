@@ -8,8 +8,8 @@
 import UIKit
 
 /// Klasa do pracy z pustymi komórkami w UICollectionView
-class EmptybleCollectionView: UICollectionView {
-    override func awakeFromNib() {
+public class EmptybleCollectionView: UICollectionView {
+    public override func awakeFromNib() {
         super.awakeFromNib()
         registerCustomClassForCell(UICollectionViewCell.self)
     }

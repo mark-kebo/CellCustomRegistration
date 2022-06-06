@@ -1,7 +1,11 @@
 # CellCustomRegistration
-[![Swift Version][swift-image]][swift-url]
+[![Swift Version][swift-image]][swift-url] 
+![Issues](https://img.shields.io/github/issues/mark-kebo/CellCustomRegistration)
+![Forks](https://img.shields.io/github/forks/mark-kebo/CellCustomRegistration)
+![Stars](https://img.shields.io/github/stars/mark-kebo/CellCustomRegistration)
+![License](https://img.shields.io/github/license/mark-kebo/CellCustomRegistration) 
 
-/// Package for custom register and use cells and views with UITableView and UICollectionView
+Package for custom register and use cells and views with UITableView and UICollectionView
 
 ## Version
 
